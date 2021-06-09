@@ -1,0 +1,1 @@
+Trabajaba en la programación de la Mark I, Hopper formalizó el concepto de compilador. Simplificado, hablamos de una especie de traductor de código que sirve para que las mismas órdenes se puedan dar a distintos ordenadores. El compilador adapta las órdenes al lenguaje de cada uno de manera automatizada.Grace
